@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🆓 Бесплатный Шерлок в ТГ: Базовая защита</h1>
   <p><b>Оцените мощь OSINT технологий без вложений</b></p>
-  <a href="https://serlockbot.ru/"><img src="https://img.shields.io/badge/Доступ-Бесплатный-brightgreen?style=for-the-badge" alt="Free"></a>
+  <a href="https://serlock-bot.org/"><img src="https://img.shields.io/badge/Доступ-Бесплатный-brightgreen?style=for-the-badge" alt="Free"></a>
 </div>
 
 ## 📖 Инструмент для каждого
@@ -35,7 +35,7 @@
 
 Забудьте о долгих регистрациях и скрытых подписках. Начать работу можно прямо сейчас:
 
-1. **Перейдите на официальную страницу**: [Доступ к Бесплатному Шерлок Боту](https://serlockbot.ru/)
+1. **Перейдите на официальную страницу**: [Доступ к Бесплатному Шерлок Боту](https://serlock-bot.org/)
 2. **Нажмите "Запустить"** в Telegram.
 3. **Отправьте номер или никнейм** и получите свой бесплатный отчет мгновенно!
 
